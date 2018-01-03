@@ -1,0 +1,17 @@
+README.md
+setup.py
+pitchshifter/__init__.py
+pitchshifter/pitchshifter.py
+pitchshifter/resampler.py
+pitchshifter/stft.py
+pitchshifter/utilities.py
+pitchshifter/version.py
+pitchshifter/vocoder.py
+pitchshifter.egg-info/PKG-INFO
+pitchshifter.egg-info/SOURCES.txt
+pitchshifter.egg-info/dependency_links.txt
+pitchshifter.egg-info/entry_points.txt
+pitchshifter.egg-info/not-zip-safe
+pitchshifter.egg-info/requires.txt
+pitchshifter.egg-info/top_level.txt
+test/__init__.py
